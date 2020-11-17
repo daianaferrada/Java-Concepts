@@ -17,7 +17,7 @@ public class perro {
 	}
 	void comer() {
 		
-		System.out.println ("El perro se encuentra comiendo");
+		System.out.println ("El perro esta comiendo");
 	}
 	
 }
